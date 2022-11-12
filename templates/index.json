@@ -89,28 +89,30 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>Ask any hypebeast and they'll tell you that streetwear is not a trend. It's a lifestyle.<\/p>",
             "heading_size": "h1"
           }
         },
-        "text": {
-          "type": "text",
+        "4cc10c5f-c24d-4dfd-a44c-b79483ee07ff": {
+          "type": "caption",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "caption": "We're giving you the 411 on streetwear fashion— right here, right now.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "4cc10c5f-c24d-4dfd-a44c-b79483ee07ff"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "padding_top": 44,
+        "padding_bottom": 16
       }
     },
     "featured_collection": {
