@@ -1,5 +1,29 @@
 {
   "sections": {
+    "b990d47d-154b-4e7b-ba31-bc2affae7db6": {
+      "type": "videoSection",
+      "blocks": {
+        "template--16922810286388__b990d47d-154b-4e7b-ba31-bc2affae7db6-1668287393e8f26f5e-0": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1a99de92dbc84975916385cf85dc81a8.mp4",
+            "overlay_opacity": 0,
+            "title": "",
+            "text": "",
+            "color_text": "#ffffff",
+            "button_label": "",
+            "button_link": "",
+            "color_btn_bg": "#ffffff",
+            "color_btn_text": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16922810286388__b990d47d-154b-4e7b-ba31-bc2affae7db6-1668287393e8f26f5e-0"
+      ],
+      "settings": {
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "disabled": true,
@@ -51,7 +75,6 @@
     },
     "rich_text": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -215,39 +238,15 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "b990d47d-154b-4e7b-ba31-bc2affae7db6": {
-      "type": "videoSection",
-      "blocks": {
-        "template--16922810286388__b990d47d-154b-4e7b-ba31-bc2affae7db6-1668287393e8f26f5e-0": {
-          "type": "video",
-          "settings": {
-            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1a99de92dbc84975916385cf85dc81a8.mp4",
-            "overlay_opacity": 0,
-            "title": "",
-            "text": "",
-            "color_text": "#ffffff",
-            "button_label": "",
-            "button_link": "",
-            "color_btn_bg": "#ffffff",
-            "color_btn_text": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "template--16922810286388__b990d47d-154b-4e7b-ba31-bc2affae7db6-1668287393e8f26f5e-0"
-      ],
-      "settings": {
-      }
     }
   },
   "order": [
+    "b990d47d-154b-4e7b-ba31-bc2affae7db6",
     "image_banner",
     "rich_text",
     "featured_collection",
     "collage",
     "video",
-    "multicolumn",
-    "b990d47d-154b-4e7b-ba31-bc2affae7db6"
+    "multicolumn"
   ]
 }
