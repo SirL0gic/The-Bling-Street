@@ -2,6 +2,7 @@
   "sections": {
     "b990d47d-154b-4e7b-ba31-bc2affae7db6": {
       "type": "videoSection",
+      "disabled": true,
       "blocks": {
         "template--16922810286388__b990d47d-154b-4e7b-ba31-bc2affae7db6-1668287393e8f26f5e-0": {
           "type": "video",
@@ -173,7 +174,6 @@
     },
     "video": {
       "type": "video",
-      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
