@@ -34,9 +34,40 @@
       "settings": {
       }
     },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Ask any hypebeast and they'll tell you that streetwear is not a trend. It's a lifestyle.<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "4cc10c5f-c24d-4dfd-a44c-b79483ee07ff": {
+          "type": "caption",
+          "settings": {
+            "caption": "We're giving you the 411 on streetwear fashion— right here, right now.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "4cc10c5f-c24d-4dfd-a44c-b79483ee07ff"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 44,
+        "padding_bottom": 16
+      }
+    },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -70,7 +101,7 @@
         "button"
       ],
       "settings": {
-        "image": "{{ shop.brand.cover_image }}",
+        "image": "shopify:\/\/shop_images\/20482365.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
@@ -81,38 +112,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Ask any hypebeast and they'll tell you that streetwear is not a trend. It's a lifestyle.<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "4cc10c5f-c24d-4dfd-a44c-b79483ee07ff": {
-          "type": "caption",
-          "settings": {
-            "caption": "We're giving you the 411 on streetwear fashion— right here, right now.",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "4cc10c5f-c24d-4dfd-a44c-b79483ee07ff"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 44,
-        "padding_bottom": 16
       }
     },
     "featured_collection": {
@@ -255,8 +254,8 @@
   "order": [
     "3dad9153-743a-45bf-af08-fb7e2906de83",
     "b990d47d-154b-4e7b-ba31-bc2affae7db6",
-    "image_banner",
     "rich_text",
+    "image_banner",
     "featured_collection",
     "collage",
     "video",
