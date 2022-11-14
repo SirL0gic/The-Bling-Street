@@ -1,5 +1,5 @@
 # The-Bling-Street
-An E-Commerce store for high end street wear created with Liquid.
+An E-Commerce store theme created using Liquid. 
 
 ## Features
 
