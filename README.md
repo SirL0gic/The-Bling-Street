@@ -2,6 +2,7 @@
 An E-Commerce store theme created using Liquid. 
 
 SEO SCORE:
+Performance:
 
 ## Features
 
