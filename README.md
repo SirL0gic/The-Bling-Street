@@ -1,6 +1,8 @@
 # The-Bling-Street
 An E-Commerce store theme created using Liquid. 
 
+SEO SCORE:
+
 ## Features
 
 #### Cart and checkout
