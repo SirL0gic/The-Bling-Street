@@ -277,8 +277,8 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 64,
-        "padding_bottom": 36
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "6bf24ff4-c166-402d-acca-d2edc59135c1": {
@@ -296,6 +296,65 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "ac6f98d9-b713-423f-a4eb-46524a6b385b": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16922810286388__ac6f98d9-b713-423f-a4eb-46524a6b385b-16692125179c72cdab-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16922810286388__ac6f98d9-b713-423f-a4eb-46524a6b385b-16692125179c72cdab-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--16922810286388__ac6f98d9-b713-423f-a4eb-46524a6b385b-16692125179c72cdab-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16922810286388__ac6f98d9-b713-423f-a4eb-46524a6b385b-16692125179c72cdab-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16922810286388__ac6f98d9-b713-423f-a4eb-46524a6b385b-16692125179c72cdab-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--16922810286388__ac6f98d9-b713-423f-a4eb-46524a6b385b-16692125179c72cdab-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--16922810286388__ac6f98d9-b713-423f-a4eb-46524a6b385b-16692125179c72cdab-0",
+        "template--16922810286388__ac6f98d9-b713-423f-a4eb-46524a6b385b-16692125179c72cdab-1",
+        "template--16922810286388__ac6f98d9-b713-423f-a4eb-46524a6b385b-16692125179c72cdab-2",
+        "template--16922810286388__ac6f98d9-b713-423f-a4eb-46524a6b385b-16692125179c72cdab-3",
+        "template--16922810286388__ac6f98d9-b713-423f-a4eb-46524a6b385b-16692125179c72cdab-5",
+        "template--16922810286388__ac6f98d9-b713-423f-a4eb-46524a6b385b-16692125179c72cdab-6"
+      ],
+      "settings": {
+        "product": "jordan-x-travis-scott-x-fragment-design-t-shirt-white",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -308,6 +367,7 @@
     "video",
     "multicolumn",
     "53740839-4a13-46c6-b602-555c182239e4",
-    "6bf24ff4-c166-402d-acca-d2edc59135c1"
+    "6bf24ff4-c166-402d-acca-d2edc59135c1",
+    "ac6f98d9-b713-423f-a4eb-46524a6b385b"
   ]
 }
