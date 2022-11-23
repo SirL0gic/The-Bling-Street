@@ -250,6 +250,52 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "53740839-4a13-46c6-b602-555c182239e4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16922810286388__53740839-4a13-46c6-b602-555c182239e4-16692120039ffb6761-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>TRAVIS SCOTT<\/p>",
+            "heading_size": "hxl"
+          }
+        },
+        "template--16922810286388__53740839-4a13-46c6-b602-555c182239e4-16692120039ffb6761-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Travis Scott's apparel features designs for next-level style.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16922810286388__53740839-4a13-46c6-b602-555c182239e4-16692120039ffb6761-0",
+        "template--16922810286388__53740839-4a13-46c6-b602-555c182239e4-16692120039ffb6761-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "6bf24ff4-c166-402d-acca-d2edc59135c1": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/maxresdefault.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -260,6 +306,8 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "53740839-4a13-46c6-b602-555c182239e4",
+    "6bf24ff4-c166-402d-acca-d2edc59135c1"
   ]
 }
