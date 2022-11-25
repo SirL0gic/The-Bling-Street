@@ -1,5 +1,5 @@
 # The-Bling-Street
-An E-Commerce store theme created using Liquid. 
+An E-Commerce store based on Liquid and Ruby on Rails (For Shopify Use)
 
 - SEO score:
 - Performance:
