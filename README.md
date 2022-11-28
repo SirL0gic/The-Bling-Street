@@ -1,9 +1,7 @@
 # The-Bling-Street
 An E-Commerce store based on Liquid and Ruby on Rails (For Shopify Use)
 
-- SEO score:
-- Performance:
-- Accesablity: 
+Link: https://bling-street-store.myshopify.com/
 
 ## Features
 
