@@ -355,6 +355,100 @@
         "padding_top": 80,
         "padding_bottom": 36
       }
+    },
+    "a7a36535-53ed-4916-8944-6bebec466f2a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16922810286388__a7a36535-53ed-4916-8944-6bebec466f2a-1669626184a8393df8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>ANTI SOCIAL CLUB<\/p>",
+            "heading_size": "hxl"
+          }
+        },
+        "template--16922810286388__a7a36535-53ed-4916-8944-6bebec466f2a-1669626184a8393df8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Find a full selection of Anti Social Social Club inline apparel essentials including hoodies and tees, as well as coveted collaborations here<\/p>"
+          }
+        },
+        "template--16922810286388__a7a36535-53ed-4916-8944-6bebec466f2a-1669626184a8393df8-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16922810286388__a7a36535-53ed-4916-8944-6bebec466f2a-1669626184a8393df8-0",
+        "template--16922810286388__a7a36535-53ed-4916-8944-6bebec466f2a-1669626184a8393df8-1",
+        "template--16922810286388__a7a36535-53ed-4916-8944-6bebec466f2a-1669626184a8393df8-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "ae5cbec7-0944-4efa-bed1-afc8b8877ec8": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16922810286388__ae5cbec7-0944-4efa-bed1-afc8b8877ec8-16696259097157e119-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16922810286388__ae5cbec7-0944-4efa-bed1-afc8b8877ec8-16696259097157e119-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16922810286388__ae5cbec7-0944-4efa-bed1-afc8b8877ec8-16696259097157e119-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16922810286388__ae5cbec7-0944-4efa-bed1-afc8b8877ec8-16696259097157e119-0",
+        "template--16922810286388__ae5cbec7-0944-4efa-bed1-afc8b8877ec8-16696259097157e119-1",
+        "template--16922810286388__ae5cbec7-0944-4efa-bed1-afc8b8877ec8-16696259097157e119-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/photo-1635715390924-3936ee04f584.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -368,6 +462,8 @@
     "multicolumn",
     "53740839-4a13-46c6-b602-555c182239e4",
     "6bf24ff4-c166-402d-acca-d2edc59135c1",
-    "ac6f98d9-b713-423f-a4eb-46524a6b385b"
+    "ac6f98d9-b713-423f-a4eb-46524a6b385b",
+    "a7a36535-53ed-4916-8944-6bebec466f2a",
+    "ae5cbec7-0944-4efa-bed1-afc8b8877ec8"
   ]
 }
