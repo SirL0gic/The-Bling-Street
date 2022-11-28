@@ -673,6 +673,40 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "1aa44fec-ef15-41e9-99e6-e585dc363cf7": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16922810286388__1aa44fec-ef15-41e9-99e6-e585dc363cf7-166962723499b3da9d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--16922810286388__1aa44fec-ef15-41e9-99e6-e585dc363cf7-166962723499b3da9d-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16922810286388__1aa44fec-ef15-41e9-99e6-e585dc363cf7-166962723499b3da9d-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16922810286388__1aa44fec-ef15-41e9-99e6-e585dc363cf7-166962723499b3da9d-0",
+        "template--16922810286388__1aa44fec-ef15-41e9-99e6-e585dc363cf7-166962723499b3da9d-1",
+        "template--16922810286388__1aa44fec-ef15-41e9-99e6-e585dc363cf7-166962723499b3da9d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -692,6 +726,7 @@
     "b11483e2-e55b-4181-8265-2780f018a7fc",
     "0b68885a-099f-4336-a070-ce5c36570357",
     "ed1659c2-3397-469d-84f2-17fbef048a7e",
-    "d50e7c57-5246-495c-b893-a43c8ec6e7fd"
+    "d50e7c57-5246-495c-b893-a43c8ec6e7fd",
+    "1aa44fec-ef15-41e9-99e6-e585dc363cf7"
   ]
 }
