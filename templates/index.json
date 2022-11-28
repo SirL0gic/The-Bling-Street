@@ -608,6 +608,71 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "d50e7c57-5246-495c-b893-a43c8ec6e7fd": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-0",
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-1",
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-2",
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-3",
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-4",
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-5",
+        "template--16922810286388__d50e7c57-5246-495c-b893-a43c8ec6e7fd-16696272442cbbc516-6"
+      ],
+      "settings": {
+        "product": "supreme-nike-nba-teams-authentic-jersey-white",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -626,6 +691,7 @@
     "ae5cbec7-0944-4efa-bed1-afc8b8877ec8",
     "b11483e2-e55b-4181-8265-2780f018a7fc",
     "0b68885a-099f-4336-a070-ce5c36570357",
-    "ed1659c2-3397-469d-84f2-17fbef048a7e"
+    "ed1659c2-3397-469d-84f2-17fbef048a7e",
+    "d50e7c57-5246-495c-b893-a43c8ec6e7fd"
   ]
 }
