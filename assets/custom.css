@@ -5,3 +5,9 @@
 .gradient{
     background-color: rgb(255, 255, 255);
 }
+
+
+#shopify-section-header > sticky-header > header{
+    padding-top: 0px;
+    padding-bottom: 0px;;
+}
